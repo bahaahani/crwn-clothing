@@ -1,6 +1,6 @@
 import React from "react";
 import Directory from "./components/Directory/directory.component";
-import "./App.css";
+import "./index.scss";
 
 const App = () => {
   const categories = [
@@ -27,7 +27,7 @@ const App = () => {
     {
       id: 5,
       title: "mens",
-      imageUrl: "https://i.ibb.co/GCCdy8t/mens.png",
+      imageUrl: "https://i.ibb.co/R70vBrQ/men.png",
     },
   ];
 
